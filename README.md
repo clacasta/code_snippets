@@ -3,7 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/clacasta/code_snippets?style=social)](https://github.com/clacasta/code_snippets/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/clacasta/code_snippets?style=social)](https://github.com/clacasta/code_snippets/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Repository Size](https://img.shields.io/github/repo-size/TU_USUARIO/TU_REPOSITORIO?color=orange)](https://github.com/clacasta/code_snippets)
+[![Repository Size](https://img.shields.io/github/repo-size/clacasta/code_snippets?color=orange)](https://github.com/clacasta/code_snippets)
 
 ¡Bienvenido(a) a mi caja de herramientas de desarrollo! 🚀 Este repositorio es una colección personal de snippets de código, pequeñas porciones de código reutilizable y soluciones rápidas para problemas comunes de programación.
 
