@@ -1,0 +1,7 @@
+
+```dataview
+LIST from "Notas_diarias" 
+WHERE file.day.day = this.file.day.day
+AND file.day.month = this.file.day.month
+SORT file.name desc
+```
